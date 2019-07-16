@@ -2,9 +2,9 @@
 
 ## Data Analysis & Conclusions
 
-• Capomulin is the only drug which showed a significant decrease in tumor volume during treatment. Infubinol and Ketapril nearly mirrored the placebo in terms of tumor volume increase during treatment.
-• Capomulin treatment resulted in the fewest number of metastatic sites during treatment.
-• Capomulin treatment resulted in significantly higher survival rates among the mice. Infubinol actually performed worse than the Placebo treatment in terms of survival rates, with Ketapril coming in nearly equal to the placebo.
+• Capomulin is the only drug which showed a significant decrease in tumor volume during treatment. Infubinol and Ketapril nearly mirrored the placebo in terms of tumor volume increase during treatment.<br>
+• Capomulin treatment resulted in the fewest number of metastatic sites during treatment.<br>
+• Capomulin treatment resulted in significantly higher survival rates among the mice. Infubinol actually performed worse than the Placebo treatment in terms of survival rates, with Ketapril coming in nearly equal to the placebo.<br>
 
 ## Part 2: Pymaceuticals
 
@@ -19,21 +19,21 @@ To do this you are tasked with:
 • Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)<br>
 • Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.<br>
 
-Here is an example of one scatter plot:
+Here is an example of one scatter plot:<br>
 <img src = "https://github.com/LShafer/pymaceuticals/blob/master/tumor_response.png">
 
 # Considerations
-•Your scatter plots must include error bars. This will allow the company to account for variability between mice.
-•Remember when making your plots to consider aesthetics!
-•Your legends should not be overlaid on top of any data.
-•Your bar graph should indicate tumor growth as red and tumor reduction as green.
-•It should also include a label with the percentage change for each bar.
+•Your scatter plots must include error bars. This will allow the company to account for variability between mice.<br>
+•Remember when making your plots to consider aesthetics!<br>
+•Your legends should not be overlaid on top of any data.<br>
+•Your bar graph should indicate tumor growth as red and tumor reduction as green.<br>
+•It should also include a label with the percentage change for each bar.<br>
 
 # Programs Used: 
 
-• Pandas
-• Jupyter
-• Matplotlib
+• Pandas<br>
+• Jupyter<br>
+• Matplotlib<br>
 
 # Author
 Lindsey Shafer
