@@ -1,4 +1,4 @@
-### Unit 5 | Assignment - The Power of Plots
+# Unit 5 | Assignment - The Power of Plots
 
 ## Data Analysis & Conclusions
 
@@ -22,18 +22,18 @@ To do this you are tasked with:
 Here is an example of one scatter plot:<br>
 <img src = "https://github.com/LShafer/pymaceuticals/blob/master/tumor_response.png">
 
-# Considerations
+### Considerations
 •Your scatter plots must include error bars. This will allow the company to account for variability between mice.<br>
 •Remember when making your plots to consider aesthetics!<br>
 •Your legends should not be overlaid on top of any data.<br>
 •Your bar graph should indicate tumor growth as red and tumor reduction as green.<br>
 •It should also include a label with the percentage change for each bar.<br>
 
-# Programs Used: 
+### Programs Used: 
 
 • Pandas<br>
 • Jupyter<br>
 • Matplotlib<br>
 
-# Author
+### Author
 Lindsey Shafer
