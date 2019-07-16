@@ -2,7 +2,7 @@
 
 ## Data Analysis & Conclusions
 
-• Capomulin is the only drug which showed a significant decrease in tumor volume during treatment. Infubinol and Ketapril nearly mirrored the placebo in terms of tumor volume increase during treatment.<br>
+• Capomulin is the only drug which showed a significant decrease in tumor volume during treatment. Infubinol and Ketapril nearly mirrored the placebo in terms of the tumor volume actually increasing during treatment.<br>
 • Capomulin treatment resulted in the fewest number of metastatic sites during treatment.<br>
 • Capomulin treatment resulted in significantly higher survival rates among the mice. Infubinol actually performed worse than the Placebo treatment in terms of survival rates, with Ketapril coming in nearly equal to the placebo.<br>
 
